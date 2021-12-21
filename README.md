@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
+
 ```clojure
 ((defn func [] (println (clojure.string/join "\u000a" ["|_|O|_|" "|_|_|O|" "|O|O|O|"]))))
 ```
@@ -22,17 +25,15 @@ Here are some ideas to get you started:
 print('🎮 by day && night 👨🏻‍💻')
 ```
 
-```prolog
-job_title(X) :-
-    member(X, ['Security Researcher']),
-    \+ member(X, ['Redline']).
-```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical)](https://github.com/best-lucky1030)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=best-lucky1030&theme=radical" alt="best-lucky1030" /></p> 
+<p>
+<img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="right" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=best-lucky1030&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical">
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical)](https://github.com/best-lucky1030) -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=best-lucky1030&theme=radical" alt="best-lucky1030" /></p>  -->
 
 <!-- [![BestLucky's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=best-lucky1030&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/best-lucky1030) -->
-
-![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 <details align="center">
   <summary>More about me</summary>
