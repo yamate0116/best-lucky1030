@@ -26,9 +26,9 @@ print('🎮 by day && night 👨🏻‍💻')
 ```
 
 <p>
-<img align="" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
 <!-- <img align="right" height="150px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=best-lucky1030&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical"> -->
-  <img align="" height="200px" src="https://github-readme-stats.vercel.app/api?username=best-lucky1030&sshow_icons=true&theme=radical&count_private=true">
+  <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=best-lucky1030&sshow_icons=true&theme=radical&count_private=true">
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical)](https://github.com/best-lucky1030) -->
