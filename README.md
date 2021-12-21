@@ -30,7 +30,7 @@ job_title(X) :-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical)](https://github.com/best-lucky1030)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=best-lucky1030&theme=radical" alt="best-lucky1030" /></p> 
 
-[![BestLucky's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=best-lucky1030&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/best-lucky1030)
+<!-- [![BestLucky's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=best-lucky1030&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/best-lucky1030) -->
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
