@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
+<!-- ![]<img align="center" src="https://images7.alphacoders.com/507/thumb-1920-507982.png"> -->
 ```clojure
 ((defn func [] (println (clojure.string/join "\u000a" ["|_|O|_|" "|_|_|O|" "|O|O|O|"]))))
 ```
@@ -24,6 +25,9 @@ Here are some ideas to get you started:
 ```python
 print('🎮 by day && night 👨🏻‍💻')
 ```
+
+![](https://images7.alphacoders.com/507/thumb-1920-507982.png)
+
 
 <p>
 <img align="" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=best-lucky1030&exclude_repo=best-lucky1030.github.io,free-for-dev&layout=compact&langs_count=8&theme=radical">
