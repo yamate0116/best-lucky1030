@@ -27,6 +27,7 @@ print('🎮 by day && night 👨🏻‍💻')
 ``` -->
 
 <i><h3 align="center">Just one small positive thought in the morning can change your whole day.</h3></i>
+<h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡</h4>
 
 ![](https://images7.alphacoders.com/507/thumb-1920-507982.png)
 
