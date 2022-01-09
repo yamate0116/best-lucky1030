@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Visitors 👋
 
 <!--
 **best-lucky1030/best-lucky1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 <!-- ![]<img align="center" src="https://images7.alphacoders.com/507/thumb-1920-507982.png"> -->
-```clojure
+<!-- ```clojure
 ((defn func [] (println (clojure.string/join "\u000a" ["|_|O|_|" "|_|_|O|" "|O|O|O|"]))))
 ```
 
 ```python
 print('🎮 by day && night 👨🏻‍💻')
-```
+``` -->
+
+<i><h3 align="center">Just one small positive thought in the morning can change your whole day.</h3></i>
 
 ![](https://images7.alphacoders.com/507/thumb-1920-507982.png)
 
