@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
+You can contact me via bestlucky1030@gmail.com
+
 More than 6 years of experience delivering tech solutions. As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
 
