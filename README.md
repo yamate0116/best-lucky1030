@@ -18,9 +18,12 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
 You can contact me via bestlucky1030@gmail.com
-
-More than 6 years of experience delivering tech solutions. As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
+<h4 align="center">
+More than 6 years of experience with web and app development, 2+ years of blockchain part. 
 <br />
+As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
+<br />
+</h4>
 
 <i><h2 align="center">Just one small positive thought in the morning can change your whole day.</h2></i>
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡</h4>
