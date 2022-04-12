@@ -29,7 +29,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡</h4>
 
 <!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
-![](https://miro.medium.com/max/1400/1*NtMA4K7PKBccJEDRqGYphg.png)
+<!-- ![](https://miro.medium.com/max/1400/1*NtMA4K7PKBccJEDRqGYphg.png) -->
+![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500)
 
 
 <p>
