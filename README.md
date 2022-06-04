@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=best-lucky1030&color=yellow)
 
+🐵 💖 🏎️ Follow Me via Git. 😄 🥰 🥇
+<br />
 You can contact me via bestlucky1030@gmail.com
-
+<br />
 You can check my past works here: <a href="https://venture-project-portfolio.vercel.app">Portfolio</a>
 <h4 align="center">
 More than 6 years of experience with web and app development, 2+ years of blockchain part. 
