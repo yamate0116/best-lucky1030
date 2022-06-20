@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   - <a href="https://github.com/best-lucky1030/NFT-Projects-Overview">NFT Projects Overview</a>
 
 <h4 align="center">
-  <i><b>7+ years of experience with web and app development and 2+ years of blockchain world.</i>
+  <i><b>7+ years of experience with IT(web and app) development and 2+ years of blockchain world.</i>
 <br />
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
 </h4>
 
-<i><h2 align="center">Just one small positive thought in the morning can change your whole day.</h2></i>
+<i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 
 ## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as a DEV
@@ -40,11 +40,12 @@ As a creative & passionate developer, and fast learner with detail and high qual
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500)
 
 ## 🌱 Experience
-  
+
+- Various kinds of websites and applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce, etc
 - Built several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
 - Made various smart contracts and utility tokens
 - Built P2E Games like Dice, Spinner(Roulette), RNG(Random Number Generators), Moonshot, CoinFlip
-- DEX, Defi, DAO
+- DEX, Defi, DAO, Dapps
   
 ## 📈 Github Status
 <p>
