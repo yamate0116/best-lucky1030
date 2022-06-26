@@ -33,7 +33,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 
-## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as a DEV
+## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as Team Member and [Discord](https://discord.gg/metakongzgc) Server.
 
 <!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
 <!-- ![](https://miro.medium.com/max/1400/1*NtMA4K7PKBccJEDRqGYphg.png) -->
@@ -41,10 +41,10 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 ## 🌱 Experience
 
-- Various kinds of websites and applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce, etc
-- Built several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
-- Made various smart contracts and utility tokens
-- Built P2E Games like Dice, Spinner(Roulette), RNG(Random Number Generators), Moonshot, CoinFlip
+- Various kinds of Websites and Applications such as B2B, B2C, CRM, Rental Estate, Booking, Fintech, Fitness, Ecommerce platforms, etc
+- Several NFT projects including Minting, Staking, Evolution/Breeding, Raffle/Auction houses, Launchpad, Marketplace
+- Built P2E Games like Dice, Spinner(Roulette), RNGs(Random Number Generators), Moonshot, CoinFlip
+- Made Smart contracts and utility tokens
 - DEX, Defi, DAO, Dapps
   
 ## 📈 Github Status
@@ -58,11 +58,12 @@ As a creative & passionate developer, and fast learner with detail and high qual
   
 ⚡ These are languages and frameworks I mostly use:
   
-- Rust/Solidity(ERC-20, 721, 721A, 1155) to write various contracts
-- Next.js/Nuxt.js/Angular
-- Node/Python/Laravel/Ruby/Go
-- MongoDB/MySQL/PostgreSQL/Oracle
+- Rust and Anchor framework
+- Solidity(ERC-20, 721, 721A, 1155) to write various contracts
 - Web3 integration
+- Next.js/Nuxt.js/Angular
+- Node/Python/Go/Ruby/Laravel
+- MongoDB/MySQL/PostgreSQL/Oracle
 
 </details>
   
