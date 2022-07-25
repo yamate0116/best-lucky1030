@@ -33,11 +33,17 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <i><h2 align="center">🎃 "Just one small positive thought in the morning can change your whole day" 👌 </h2></i>
 <h4 align="center">(๑′ᴗ‵๑)Ｉ Lᵒᵛᵉᵧₒᵤ♡ Coding (๑′ᴗ‵๑)</h4>
 
-## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as Team Member and [Discord](https://discord.gg/metakongzgc) Server.
+<!-- ## 👨‍💻 Currently working in [MetaKongz](https://www.metakongz.art) as Team Member and [Discord](https://discord.gg/metakongzgc) Server.
+
+![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
+  
+## 👨‍💻 Currently working in [MONKAI](https://monkainft.com) as Team Member and [Discord](https://discord.gg/monkai) Server.
 
 <!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
 <!-- ![](https://miro.medium.com/max/1400/1*NtMA4K7PKBccJEDRqGYphg.png) -->
-![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500)
+![monkai](https://user-images.githubusercontent.com/89365150/180822767-8802b245-e376-4870-b216-ee5d12ff2e69.png)
+
+
 
 ## 🌱 Experience
 
