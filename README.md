@@ -42,10 +42,8 @@ As a creative & passionate developer, and fast learner with detail and high qual
 <!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
 <!-- ![](https://miro.medium.com/max/1400/1*NtMA4K7PKBccJEDRqGYphg.png) -->
 <!-- ![monkai](https://user-images.githubusercontent.com/89365150/180822767-8802b245-e376-4870-b216-ee5d12ff2e69.png) -->
-![2](https://user-images.githubusercontent.com/89365150/198137474-76cae7dd-505b-4df3-a5e8-ddb4424c5673.png)
-
-
-
+<!-- ![2](https://user-images.githubusercontent.com/89365150/198137474-76cae7dd-505b-4df3-a5e8-ddb4424c5673.png) -->
+![Yaku Hub](https://user-images.githubusercontent.com/89365150/198139901-16e72b5a-7c7d-4a79-b29b-2751e46f386d.png)
 
 ## 🌱 Experience
 
