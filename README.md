@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - <a href="https://github.com/best-lucky1030/NFT-Projects-Overview">NFT Projects Overview</a>
 
 <h4 align="center">
-  <i><b>7+ years of experience with IT(web and app) development and 2+ years of blockchain world.</i>
+  <i><b>7+ years of experience with Software(web and app) development and 2+ years of Blockchain Space.</i>
 <br />
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
@@ -65,11 +65,11 @@ As a creative & passionate developer, and fast learner with detail and high qual
 ⚡ These are languages and frameworks I mostly use:
   
 - Rust and Anchor framework
-- Solidity(ERC-20, 721, 721A, 1155) to write various contracts
+- Solidity programming (ERC-20, 721, 721A, 1155) to write various contracts
 - Web3 integration
-- Next.js/Nuxt.js/Angular
-- Node/Python/Go/Ruby/Laravel
-- MongoDB/MySQL/PostgreSQL/Oracle
+- Next.js or Nuxt.js or Angular
+- Node or Go or Python or Ruby or Laravel
+- MongoDB or MySQL or Postgre or Oracle
 
 </details>
   
