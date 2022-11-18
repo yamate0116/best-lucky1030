@@ -37,13 +37,14 @@ As a creative & passionate developer, and fast learner with detail and high qual
 
 ![](https://pbs.twimg.com/profile_banners/1480769564245999618/1645162290/1500x500) -->
   
-## 👨‍💻 Currently working in [YAKU](https://www.yaku.ai) as Team Member and [Discord](https://discord.gg/yakucorp) Server.
+## 👨‍💻 Currently working in [Cyber Wolves Society](https://twitter.com/cyberwolvessoc) as Lead and [Discord](https://discord.gg/vV5VbxKG) Server.
 
 <!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
-<!-- ![](https://miro.medium.com/max/1400/1*NtMA4K7PKBccJEDRqGYphg.png) -->
-<!-- ![monkai](https://user-images.githubusercontent.com/89365150/180822767-8802b245-e376-4870-b216-ee5d12ff2e69.png) -->
-<!-- ![2](https://user-images.githubusercontent.com/89365150/198137474-76cae7dd-505b-4df3-a5e8-ddb4424c5673.png) -->
-![Yaku Hub](https://user-images.githubusercontent.com/89365150/198139901-16e72b5a-7c7d-4a79-b29b-2751e46f386d.png)
+![600x200 1](https://user-images.githubusercontent.com/89365150/202655111-3b634998-b7b1-466b-8cad-cc6aaa900af0.png)
+
+
+
+
 
 ## 🌱 Experience
 
