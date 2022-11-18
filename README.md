@@ -40,10 +40,7 @@ As a creative & passionate developer, and fast learner with detail and high qual
 ## 👨‍💻 Currently working in [Cyber Wolves Society](https://twitter.com/cyberwolvessoc) as Lead and [Discord](https://discord.gg/vV5VbxKG) Server.
 
 <!-- ![](https://minionicious.files.wordpress.com/2016/08/dave2.png) -->
-![600x200 1](https://user-images.githubusercontent.com/89365150/202655111-3b634998-b7b1-466b-8cad-cc6aaa900af0.png)
-
-
-
+![CWS](https://user-images.githubusercontent.com/89365150/202695915-8e27499d-c325-49e8-8d1e-9e8ccd88d673.png)
 
 
 ## 🌱 Experience
