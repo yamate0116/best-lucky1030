@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - <a href="https://github.com/best-lucky1030/NFT-Projects-Overview">NFT Projects Overview</a>
 
 <h4 align="center">
-  <i><b>7+ years of experience with Software(web and app) development and 2+ years of Blockchain Space.</i>
+  <i><b>8 years of experience with Software(web and app) development and 3 years of Blockchain Space.</i>
 <br />
 As a creative & passionate developer, and fast learner with detail and high quality, I am always trying to improve development and communication processes. I love simple and elegant solutions for every problem.
 <br />
